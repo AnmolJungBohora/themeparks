@@ -1,1 +1,1 @@
-A simple web-based ticketing system developed using PHP, HTML, and CSS. This system allows for efficient management of theme park ticket bookings, visitor records, and entry tracking. Designed for small-scale amusement setups or academic projects.
+A dynamic web-based ticketing system primarily built with JavaScript, along with PHP, HTML, and CSS. It manages theme park ticket bookings, visitor details, and entry validations. Ideal for academic projects or small amusement park setups.
